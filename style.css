@@ -1,4 +1,5 @@
 main{
+    padding-bottom: 55px;
     background:linear-gradient(rgb(156, 58, 66),black);
   }
   #title{
@@ -30,7 +31,7 @@ main{
   }
   #tribute-info{
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     color:white;
     padding:0 20%;
   }
@@ -40,7 +41,7 @@ main{
   }
   #qoutation{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: medium;
+    font-size: 3rem;
     margin: 55px auto;
   }
   #tribute-link{
@@ -48,5 +49,4 @@ main{
     color: aliceblue;
     font-family: 'Courier New', Courier, monospace;
     font-size: 1rem
-    
   }
