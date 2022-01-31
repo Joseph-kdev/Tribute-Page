@@ -1,0 +1,52 @@
+main{
+    background:linear-gradient(rgb(156, 58, 66),black);
+  }
+  #title{
+    color:black;
+    text-align: center;
+    padding:5px;
+    font-size: 20px;
+  }
+  h1{
+    font-size:50px;
+    margin-bottom:10px;
+  }
+  #img-div{
+    color:black;
+    font-size: large;
+    padding:5px;
+    margin:15px;
+    background-color:aliceblue;
+    padding: 5%;
+  }
+  img{
+    margin:0px;
+    display:block;
+    width:100%;
+    height:auto;
+  }
+  #caption{
+    text-align:center;
+  }
+  #tribute-info{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    color:white;
+    padding:0 20%;
+  }
+  h3{
+    text-align:center;
+    margin: 35px 0px;
+  }
+  #qoutation{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    margin: 55px auto;
+  }
+  #tribute-link{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem
+    
+  }
